@@ -1,0 +1,2163 @@
+TNYC Sights
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C60B8290000000000000132
+t1281407017
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004C01F5AE00000000000C05A0
+t1275196846
+s787872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004C01F5AA000000000000065C
+t1275196842
+s1628
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004BFDFD850000000000236AB0
+t1274936709
+s2321072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKAnnotation.h
+c000000004C047247000000000000027E
+t1275359815
+s638
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04724700000000000002FE
+t1275359815
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C04725B0000000000160350
+t1275359835
+s1442640
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/1860s White House.png
+c000000004D4870A20000000000014736
+t1296593058
+s83766
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/664px-Washington_Monument_circa_1860_-_Brady-Handy.jpg
+c000000004D418BA4000000000000F882
+t1296141220
+s63618
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/762px-Lincoln_Memorial_Under_Construction_1916_edited-1.jpg
+c000000004D3F35390000000000013C90
+t1295988025
+s81040
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/AboutViewController.h
+c000000004D58908E0000000000000115
+t1297649806
+s277
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/AboutViewController.m
+c000000004D60AFEC00000000000006D3
+t1298182124
+s1747
+i"AboutViewController.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/AboutViewController.xib
+c000000004D60B0C00000000000008E39
+t1298182336
+s36409
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/After 1814 fire.png
+c000000004D5197E0000000000001E105
+t1297192928
+s123141
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/AppDelegate.h
+c000000004D58908E00000000000001AB
+t1297649806
+s427
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/AppDelegate.m
+c000000004D5DDFEB0000000000000594
+t1297997803
+s1428
+i"AppDelegate.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Bread line sculpture.png
+c000000004D4B29D10000000000027C79
+t1296771537
+s162937
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Capitol after 1814 fire.png
+c000000004D559B1D0000000000011EB4
+t1297455901
+s73396
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Constants.h
+c000000004D58908E0000000000000148
+t1297649806
+s328
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Construction delay.png
+c000000004D519AA2000000000001865C
+t1297193634
+s99932
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Default.png
+c000000004D6260C1000000000002FB86
+t1298292929
+s195462
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Diplomatic Reception Room.png
+c000000004D48710300000000000243DD
+t1296593155
+s148445
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/DirectionsViewController.h
+c000000004D58908E0000000000000121
+t1297649806
+s289
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/DirectionsViewController.m
+c000000004D60AFCF00000000000006F1
+t1298182095
+s1777
+i"DirectionsViewController.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/DirectionsViewController.xib
+c000000004D60AD13000000000000D8A3
+t1298181395
+s55459
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Einstein Memorial.png
+c000000004D3F22F60000000000021AE8
+t1295983350
+s137960
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/FDR Memorial.png
+c000000004D36150E0000000000021B0A
+t1295389966
+s137994
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Franklin Delano Roosevelt quote.png
+c000000004D361467000000000003750F
+t1295389799
+s226575
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/HelpViewController.h
+c000000004D58908E0000000000000113
+t1297649806
+s275
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/HelpViewController.m
+c000000004FB949C600000000000006D1
+t1337543110
+s1745
+i"HelpViewController.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/HelpViewController.xib
+c000000004D65CC5100000000000072DB
+t1298517073
+s29403
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/HoursViewController.h
+c000000004D5DDC530000000000000114
+t1297996883
+s276
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/HoursViewController.m
+c000000004D60AFC300000000000006CA
+t1298182083
+s1738
+i"HoursViewController.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/HoursViewController.xib
+c000000004D60A7BE0000000000005155
+t1298180030
+s20821
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Icon-72.png
+c000000004D5ED5300000000000002C30
+t1298060592
+s11312
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Icon-small-50.png
+c000000004D5ED5A300000000000016EF
+t1298060707
+s5871
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Icon-small.png
+c000000004D5ED5800000000000000888
+t1298060672
+s2184
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Icon.png
+c000000004D5411980000000000001CC6
+t1297355160
+s7366
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Icon512.png
+c000000004D3716DD000000000006B663
+t1295455965
+s439907
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/InfoScreen.png
+c000000004D54075E0000000000033E4D
+t1297352542
+s212557
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Infobutton.png
+c000000004BE224F900000000000003E1
+t1273111801
+s993
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Jefferson Memorial.png
+c000000004D47388A00000000000226CE
+t1296513162
+s141006
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Kilroy was here.png
+c000000004D4AFE05000000000001F18F
+t1296760325
+s127375
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Korean War Memorial.png
+c000000004D3611800000000000027A41
+t1295389056
+s162369
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Korean War soldier.png
+c000000004D361367000000000004B955
+t1295389543
+s309589
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/LargePhotoViewController.h
+c000000004D588EEA0000000000000195
+t1297649386
+s405
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/LargePhotoViewController.m
+c000000004D588EED00000000000004CC
+t1297649389
+s1228
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Laying the cornerstone.png
+c000000004D5D67D50000000000024EDC
+t1297967061
+s151260
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Lincoln Memorial circa 1921.png
+c000000004D42DCF1000000000001851F
+t1296227569
+s99615
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Lincoln Memorial construction 1916.png
+c000000004D3F3593000000000001120A
+t1295988115
+s70154
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Lincoln Memorial.png
+c000000004D540EA90000000000016DB5
+t1297354409
+s93621
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Lincoln statue.png
+c000000004D531D2100000000000273CD
+t1297292577
+s160717
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Lincoln, with Lee profile.png
+c000000004D3F367D0000000000031603
+t1295988349
+s202243
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/MLK - March on Washington.png
+c000000004D543E97000000000001ABB6
+t1297366679
+s109494
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/MLK statue model.jpg
+c000000004D5430D10000000000003C46
+t1297363153
+s15430
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/MapViewIcon.png
+c000000004B9455ED00000000000000FC
+t1268012525
+s252
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Memorial repairs.png
+c000000004D473798000000000001881E
+t1296512920
+s100382
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Minerva - Apotheosis.png
+c000000004D5C5662000000000001F67C
+t1297897058
+s128636
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/New Deal.png
+c000000004D3615850000000000028140
+t1295390085
+s164160
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/North Wall Mural.png
+c000000004D42DDA40000000000015584
+t1296227748
+s87428
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Original plans.png
+c000000004D519972000000000002B2FC
+t1297193330
+s176892
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageEightViewController.h
+c000000004D64882C0000000000000355
+t1298434092
+s853
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageEightViewController.m
+c000000004FA9D4920000000000003013
+t1336530066
+s12307
+i"PageSevenViewController.h"
+i"Constants.h"
+i"PageEightViewController.h"
+i"PageNineViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageEightViewController.xib
+c000000004FA9D35900000000000083FA
+t1336529753
+s33786
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageElevenViewController.h
+c000000004D64882C0000000000000357
+t1298434092
+s855
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageElevenViewController.m
+c000000005057D36B0000000000003019
+t1347933035
+s12313
+i"PageTenViewController.h"
+i"Constants.h"
+i"PageElevenViewController.h"
+i"PageTwelveViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageElevenViewController.xib
+c000000004D647C3D000000000000B229
+t1298431037
+s45609
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageFiveViewController.h
+c000000004D64882D0000000000000353
+t1298434093
+s851
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageFiveViewController.m
+c000000004FB30C6F0000000000002FFF
+t1337134191
+s12287
+i"PageFourViewController.h"
+i"Constants.h"
+i"PageFiveViewController.h"
+i"PageSixViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageFourViewController.h
+c000000004D64882D0000000000000353
+t1298434093
+s851
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageFourViewController.m
+c000000004D64981F000000000000300F
+t1298438175
+s12303
+i"PageThreeViewController.h"
+i"Constants.h"
+i"PageFourViewController.h"
+i"PageFiveViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageFourteenViewController.h
+c000000005057D6B8000000000000035B
+t1347933880
+s859
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageFourteenViewController.m
+c000000005057D7420000000000003034
+t1347934018
+s12340
+i"PageFourteenViewController.h"
+i"Constants.h"
+i"PageThirteenViewController.h"
+i"PageOneViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageFourteenViewController.xib
+c000000005057D1A20000000000001889
+t1347932578
+s6281
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageNineViewController.h
+c000000004D64882D0000000000000353
+t1298434093
+s851
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageNineViewController.m
+c000000004D64981F0000000000003007
+t1298438175
+s12295
+i"PageEightViewController.h"
+i"Constants.h"
+i"PageNineViewController.h"
+i"PageTenViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageNineViewController.xib
+c000000004D61E4BE00000000000092C2
+t1298261182
+s37570
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageOneViewController.h
+c000000004D64882D0000000000000351
+t1298434093
+s849
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageOneViewController.m
+c000000005057D31C0000000000003020
+t1347932956
+s12320
+i"PageFourteenViewController.h"
+i"Constants.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageSevenViewController.h
+c000000004D64882D0000000000000355
+t1298434093
+s853
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageSevenViewController.m
+c000000004D649820000000000000300B
+t1298438176
+s12299
+i"PageSixViewController.h"
+i"Constants.h"
+i"PageSevenViewController.h"
+i"PageEightViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageSevenViewController.xib
+c000000004D61E18700000000000086C9
+t1298260359
+s34505
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageSixViewController.h
+c000000004D64882D0000000000000351
+t1298434093
+s849
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageSixViewController.m
+c000000004D649820000000000000300B
+t1298438176
+s12299
+i"PageFiveViewController.h"
+i"Constants.h"
+i"PageSixViewController.h"
+i"PageSevenViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageSixViewController.xib
+c000000004D61E198000000000000A49C
+t1298260376
+s42140
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageTenViewController.h
+c000000004D64882D0000000000000351
+t1298434093
+s849
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageTenViewController.m
+c000000004D6498200000000000003015
+t1298438176
+s12309
+i"PageNineViewController.h"
+i"Constants.h"
+i"PageTenViewController.h"
+i"PageElevenViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageTenViewController.xib
+c000000004D647B4D00000000000098ED
+t1298430797
+s39149
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageThirteenViewController.h
+c000000005057D6AE0000000000000359
+t1347933870
+s857
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageThirteenViewController.m
+c000000005057D8B9000000000000304A
+t1347934393
+s12362
+i"PageThirteenViewController.h"
+i"Constants.h"
+i"PageTwelveViewController.h"
+i"PageFourteenViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageThirteenViewController.xib
+c000000005057D18E0000000000001889
+t1347932558
+s6281
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageThreeViewController.h
+c000000004D64882D0000000000000355
+t1298434093
+s853
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageThreeViewController.m
+c000000004D6498200000000000003004
+t1298438176
+s12292
+i"PageTwoViewController.h"
+i"Constants.h"
+i"PageThreeViewController.h"
+i"PageFourViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageTwelveViewController.h
+c000000005057D6B20000000000000357
+t1347933874
+s855
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageTwelveViewController.m
+c000000005057D8800000000000003044
+t1347934336
+s12356
+i"PageTwelveViewController.h"
+i"Constants.h"
+i"PageElevenViewController.h"
+i"PageThirteenViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageTwelveViewController.xib
+c000000005057D1700000000000001883
+t1347932528
+s6275
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageTwoViewController.h
+c000000004D64882D0000000000000351
+t1298434093
+s849
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageTwoViewController.m
+c000000004D6498200000000000003004
+t1298438176
+s12292
+i"PageOneViewController.h"
+i"Constants.h"
+i"PageTwoViewController.h"
+i"PageThreeViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PinDRed1.png
+c000000004BAE990900000000000009FE
+t1269733641
+s2558
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PinDRed10.png
+c000000004BC931F70000000000000A50
+t1271476727
+s2640
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PinDRed11.png
+c000000004BC9320D0000000000000A0C
+t1271476749
+s2572
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PinDRed12.png
+c000000004BC9321D0000000000000A50
+t1271476765
+s2640
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PinDRed13.png
+c000000004C436D150000000000000A4B
+t1279487253
+s2635
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PinDRed2.png
+c000000004BAE93160000000000000A38
+t1269732118
+s2616
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PinDRed3.png
+c000000004BAE992A0000000000000A43
+t1269733674
+s2627
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PinDRed4.png
+c000000004BAE99450000000000000A20
+t1269733701
+s2592
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PinDRed5.png
+c000000004BC9316F0000000000000A40
+t1271476591
+s2624
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PinDRed6.png
+c000000004BC931870000000000000A42
+t1271476615
+s2626
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PinDRed7.png
+c000000004BC9319A0000000000000A28
+t1271476634
+s2600
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PinDRed8.png
+c000000004BC931AB0000000000000A5E
+t1271476651
+s2654
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PinDRed9.png
+c000000004BC931BD0000000000000A50
+t1271476669
+s2640
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Playbutton.png
+c000000004BE21F070000000000000154
+t1273110279
+s340
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Prefix.pch
+c0000000049FB55000000000000000058
+t1241208064
+s88
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Pres. Harrison with goat.png
+c000000004D4870350000000000015C93
+t1296592949
+s89235
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Statue of Freedom.png
+c000000004D4AF87100000000000211B6
+t1296758897
+s135606
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Statue of Thomas Jefferson.png
+c000000004D4736380000000000038C67
+t1296512568
+s232551
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Stone of Hope model.png
+c000000004D544D20000000000001E24F
+t1297370400
+s123471
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/TableViewIcon.png
+c000000004B93EAEB00000000000000BA
+t1267985131
+s186
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/The Three Soldiers.png
+c000000004D4C45300000000000024E75
+t1296844080
+s151157
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/The White House.png
+c000000004D35E01B000000000001CEE2
+t1295376411
+s118498
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Thomas Jefferson Statue.png
+c000000004D41DFD50000000000038FF9
+t1296162773
+s233465
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Thomas-Jefferson-status.png
+c000000004D41DFBA0000000000018402
+t1296162746
+s99330
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/TipsViewController.h
+c000000004D58908E0000000000000113
+t1297649806
+s275
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/TipsViewController.m
+c000000004D60B06600000000000006DF
+t1298182246
+s1759
+i"TipsViewController.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/TipsViewController.xib
+c000000004D60AD3D0000000000005AD7
+t1298181437
+s23255
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/US Capitol from the Washington Monument.png
+c000000004D35E10F000000000001B0C4
+t1295376655
+s110788
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/US Capitol.png
+c000000004D5597190000000000019CC2
+t1297454873
+s105666
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Vietnam Veterans Memorial Wall.png
+c000000004D4C43E20000000000026247
+t1296843746
+s156231
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Vietnam Women's Memorial.png
+c000000004D4C45C40000000000038149
+t1296844228
+s229705
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/WW II Memorial wreaths.png
+c000000004D35E9C5000000000001CB21
+t1295378885
+s117537
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/WW II Monument inside.png
+c000000004D35E95C000000000002C7F4
+t1295378780
+s182260
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/WWII Memorial arch.png
+c000000004D51A49700000000000336CF
+t1297196183
+s210639
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Washington Monument and US Capitol.png
+c000000004D360E2600000000000127AA
+t1295388198
+s75690
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/Washington Monument.png
+c000000004D5406DC000000000001A194
+t1297352412
+s106900
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/World War II Memorial.png
+c000000004D35E2F40000000000025B6F
+t1295377140
+s154479
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/bp_btn1.png
+c000000004BB540450000000000000502
+t1270169669
+s1282
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/bp_btn2.png
+c000000004BB540450000000000000501
+t1270169669
+s1281
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/AboutViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/DCMonuments.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/DirectionsViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/HelpViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/HoursViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/LargePhotoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageEightViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageElevenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageFiveViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageFourViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageFourteenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageNineViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageOneViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageSevenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageSixViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageTenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageThirteenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageThreeViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageTwelveViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageTwoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/TipsViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/infoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/mapViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/tableViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/wwAnnotation.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/wwAnnotationView.o
+t2
+s0
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app
+t1348103912
+s3978
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app.dSYM
+t1347934396
+s102
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/1860s White House.png
+t1337544207
+s83766
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/664px-Washington_Monument_circa_1860_-_Brady-Handy.jpg
+t1337544207
+s63618
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/762px-Lincoln_Memorial_Under_Construction_1916_edited-1.jpg
+t1337544207
+s81040
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/AboutViewController.nib
+t1337544206
+s6118
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/After 1814 fire.png
+t1337544208
+s123141
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Bread line sculpture.png
+t1337544207
+s162937
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Capitol after 1814 fire.png
+t1337544207
+s73396
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Construction delay.png
+t1337544208
+s99932
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/DCMonuments
+t1347934396
+s368872
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Default.png
+t1337544204
+s195462
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Diplomatic Reception Room.png
+t1337544207
+s148445
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/DirectionsViewController.nib
+t1337544205
+s9438
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Einstein Memorial.png
+t1337544207
+s137960
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/FDR Memorial.png
+t1337544207
+s137994
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Franklin Delano Roosevelt quote.png
+t1337544207
+s226575
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/HelpViewController.nib
+t1337544205
+s5264
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/HoursViewController.nib
+t1337544205
+s3150
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Icon-72.png
+t1337544204
+s11312
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Icon-small-50.png
+t1337544204
+s5871
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Icon-small.png
+t1337544204
+s2184
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Icon.png
+t1337544204
+s7366
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Icon512.png
+t1337544204
+s439907
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Info.plist
+t1337544203
+s684
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/InfoScreen.png
+t1337544204
+s212557
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Infobutton.png
+t1337544204
+s993
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Jefferson Memorial.png
+t1337544207
+s141006
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Kilroy was here.png
+t1337544207
+s127375
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Korean War Memorial.png
+t1337544207
+s162369
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Korean War soldier.png
+t1337544207
+s309589
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Laying the cornerstone.png
+t1337544208
+s151260
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Lincoln Memorial circa 1921.png
+t1337544207
+s99615
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Lincoln Memorial construction 1916.png
+t1337544207
+s70154
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Lincoln Memorial.png
+t1337544207
+s93621
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Lincoln statue.png
+t1337544207
+s160717
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Lincoln, with Lee profile.png
+t1337544207
+s202243
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/MLK - March on Washington.png
+t1337544207
+s109494
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/MLK statue model.jpg
+t1337544207
+s15430
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/MapViewIcon.png
+t1337544204
+s252
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Memorial repairs.png
+t1337544207
+s100382
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Minerva - Apotheosis.png
+t1337544207
+s128636
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/New Deal.png
+t1337544207
+s164160
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/North Wall Mural.png
+t1337544207
+s87428
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Original plans.png
+t1337544208
+s176892
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/PageEightViewController.nib
+t1337544207
+s7459
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/PageElevenViewController.nib
+t1337544209
+s11216
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/PageFourteenViewController.nib
+t1347933898
+s1231
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/PageNineViewController.nib
+t1337544207
+s8384
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/PageSevenViewController.nib
+t1337544207
+s8152
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/PageSixViewController.nib
+t1337544206
+s9322
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/PageTenViewController.nib
+t1337544207
+s9691
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/PageThirteenViewController.nib
+t1347933896
+s1231
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/PageTwelveViewController.nib
+t1347933896
+s1231
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/PinDRed1.png
+t1337544204
+s2558
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/PinDRed10.png
+t1337544204
+s2640
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/PinDRed11.png
+t1337544204
+s2572
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/PinDRed12.png
+t1337544204
+s2640
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/PinDRed13.png
+t1337544204
+s2635
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/PinDRed2.png
+t1337544204
+s2616
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/PinDRed3.png
+t1337544204
+s2627
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/PinDRed4.png
+t1337544204
+s2592
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/PinDRed5.png
+t1337544204
+s2624
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/PinDRed6.png
+t1337544204
+s2626
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/PinDRed7.png
+t1337544204
+s2600
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/PinDRed8.png
+t1337544204
+s2654
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/PinDRed9.png
+t1337544204
+s2640
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/PkgInfo
+t1337544203
+s8
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Playbutton.png
+t1337544204
+s340
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Pres. Harrison with goat.png
+t1337544207
+s89235
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Statue of Freedom.png
+t1337544208
+s135606
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Statue of Thomas Jefferson.png
+t1337544208
+s232551
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Stone of Hope model.png
+t1337544208
+s123471
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/TableViewIcon.png
+t1337544204
+s186
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/The Three Soldiers.png
+t1337544208
+s151157
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/The White House.png
+t1337544208
+s118498
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Thomas Jefferson Statue.png
+t1337544208
+s233465
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Thomas-Jefferson-status.png
+t1337544208
+s99330
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/TipsViewController.nib
+t1337544205
+s4485
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/US Capitol from the Washington Monument.png
+t1337544208
+s110788
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/US Capitol.png
+t1337544208
+s105666
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Vietnam Veterans Memorial Wall.png
+t1337544208
+s156231
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Vietnam Women's Memorial.png
+t1337544208
+s229705
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/WW II Memorial wreaths.png
+t1337544208
+s117537
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/WW II Monument inside.png
+t1337544208
+s182260
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/WWII Memorial arch.png
+t1337544208
+s210639
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Washington Monument and US Capitol.png
+t1337544208
+s75690
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Washington Monument.png
+t1337544208
+s106900
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/World War II Memorial.png
+t1337544208
+s154479
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/bp_btn1.png
+t1337544204
+s1282
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/bp_btn2.png
+t1337544204
+s1281
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/en.lproj/InfoPlist.strings
+t1337544204
+s209
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/en.lproj/Localizable.strings
+t1337544204
+s597
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/en.lproj/MainWindow.nib
+t1348103912
+s6897
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/en.lproj/PageFiveViewController.nib
+t1337544210
+s7776
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/en.lproj/PageFourViewController.nib
+t1337544210
+s9021
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/en.lproj/PageOneViewController.nib
+t1337544209
+s11383
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/en.lproj/PageThreeViewController.nib
+t1337544210
+s9090
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/en.lproj/PageTwoViewController.nib
+t1337544211
+s8574
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/iTunesArtwork.png
+t1337544204
+s439907
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/nolac1.mp3
+t1347328493
+s2085224
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/nolac10.mp3
+t1347328764
+s2085224
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/nolac11.mp3
+t1337544209
+s4889730
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/nolac2.mp3
+t1347328763
+s2085224
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/nolac3.mp3
+t1347328763
+s2085224
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/nolac4.mp3
+t1347328763
+s2085224
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/nolac5.mp3
+t1347328763
+s2085224
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/nolac6.mp3
+t1347328763
+s2085224
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/nolac7.mp3
+t1347328763
+s2085224
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/nolac8.mp3
+t1347328763
+s2085224
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/nolac9.mp3
+t1347328763
+s2085224
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/pausebutton.png
+t1337544204
+s224
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/table1.png
+t1337544208
+s3730
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/table10.png
+t1337544208
+s4098
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/table11.png
+t1337544208
+s3669
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/table2.png
+t1337544208
+s3567
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/table3.png
+t1337544208
+s3880
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/table4.png
+t1337544208
+s4104
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/table5.png
+t1337544208
+s4369
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/table6.png
+t1337544208
+s3827
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/table7.png
+t1337544208
+s4515
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/table8.png
+t1337544208
+s3620
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/table9.png
+t1337544208
+s4267
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/volume_up.png
+t1337544204
+s1180
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/en.lproj/InfoPlist.strings
+c0000000049FB5500000000000000015A
+t1241208064
+s346
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/en.lproj/Localizable.strings
+c000000004C16E729000000000000022A
+t1276569385
+s554
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/en.lproj/MainWindow.xib
+c00000000505A6EAB000000000000BCC9
+t1348103851
+s48329
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/en.lproj/PageFiveViewController.xib
+c000000004FB30CB700000000000072C5
+t1337134263
+s29381
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/en.lproj/PageFourViewController.xib
+c000000004D647ADA000000000000937D
+t1298430682
+s37757
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/en.lproj/PageOneViewController.xib
+c000000004FA9D212000000000000B1F5
+t1336529426
+s45557
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/en.lproj/PageThreeViewController.xib
+c000000004D61EC0B000000000000A41C
+t1298263051
+s42012
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/en.lproj/PageTwoViewController.xib
+c000000004D647AC2000000000000963A
+t1298430658
+s38458
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/iTunesArtwork.png
+c000000004D5411C3000000000006B663
+t1297355203
+s439907
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/infoViewController.h
+c000000004D58908E00000000000001DF
+t1297649806
+s479
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/infoViewController.m
+c000000004D6260D300000000000022E4
+t1298292947
+s8932
+i"infoViewController.h"
+i"DirectionsViewController.h"
+i"HelpViewController.h"
+i"HoursViewController.h"
+i"AboutViewController.h"
+i"TipsViewController.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/main.m
+c000000004D65CDCF0000000000000181
+t1298517455
+s385
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/mapViewController.h
+c000000004D58908E00000000000002FE
+t1297649806
+s766
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i<MapKit/MKAnnotation.h>
+i"wwAnnotation.h"
+i"wwAnnotationView.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/mapViewController.m
+c000000004D5DE5FD0000000000004FC4
+t1297999357
+s20420
+i"mapViewController.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"PageThreeViewController.h"
+i"PageFourViewController.h"
+i"PageFiveViewController.h"
+i"PageSixViewController.h"
+i"PageSevenViewController.h"
+i"PageEightViewController.h"
+i"PageNineViewController.h"
+i"PageTenViewController.h"
+i"PageElevenViewController.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/nolac1.mp3
+c0000000050351C9B00000000001FD168
+t1345658011
+s2085224
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/nolac10.mp3
+c0000000050351C9B00000000001FD168
+t1345658011
+s2085224
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/nolac11.mp3
+c000000004D640FEB00000000004A9C82
+t1298403307
+s4889730
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/nolac2.mp3
+c0000000050351C9B00000000001FD168
+t1345658011
+s2085224
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/nolac3.mp3
+c0000000050351C9B00000000001FD168
+t1345658011
+s2085224
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/nolac4.mp3
+c0000000050351C9B00000000001FD168
+t1345658011
+s2085224
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/nolac5.mp3
+c0000000050351C9B00000000001FD168
+t1345658011
+s2085224
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/nolac6.mp3
+c0000000050351C9B00000000001FD168
+t1345658011
+s2085224
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/nolac7.mp3
+c0000000050351C9B00000000001FD168
+t1345658011
+s2085224
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/nolac8.mp3
+c0000000050351C9B00000000001FD168
+t1345658011
+s2085224
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/nolac9.mp3
+c0000000050351C9B00000000001FD168
+t1345658011
+s2085224
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/pausebutton.png
+c000000004BE2211900000000000000E0
+t1273110809
+s224
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/table1.png
+c000000004D519C120000000000000E92
+t1297194002
+s3730
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/table10.png
+c000000004D5413A00000000000001002
+t1297355680
+s4098
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/table11.png
+c000000004D5590D30000000000000E55
+t1297453267
+s3669
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/table2.png
+c000000004D519C400000000000000DEF
+t1297194048
+s3567
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/table3.png
+c000000004D51A2F70000000000000F28
+t1297195767
+s3880
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/table4.png
+c000000004D51A7610000000000001008
+t1297196897
+s4104
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/table5.png
+c000000004D531BBF0000000000001111
+t1297292223
+s4369
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/table6.png
+c000000004D531D030000000000000EF3
+t1297292547
+s3827
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/table7.png
+c000000004D540C3800000000000011A3
+t1297353784
+s4515
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/table8.png
+c000000004D558FCC0000000000000E24
+t1297453004
+s3620
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/table9.png
+c000000004D540CAB00000000000010AB
+t1297353899
+s4267
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/tableViewController.h
+c000000004D58908E00000000000001E2
+t1297649806
+s482
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/tableViewController.m
+c000000004D5DE1A200000000000027D1
+t1297998242
+s10193
+i"tableViewController.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"PageThreeViewController.h"
+i"PageFourViewController.h"
+i"PageFiveViewController.h"
+i"PageSixViewController.h"
+i"PageSevenViewController.h"
+i"PageEightViewController.h"
+i"PageNineViewController.h"
+i"PageTenViewController.h"
+i"PageElevenViewController.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/volume_up.png
+c0000000049B6E5FE000000000000049C
+t1236723198
+s1180
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/wwAnnotation.h
+c000000004D58908E0000000000000357
+t1297649806
+s855
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/wwAnnotation.m
+c000000004D58908E000000000000028B
+t1297649806
+s651
+i"wwAnnotation.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/wwAnnotationView.h
+c000000004D58908E0000000000000178
+t1297649806
+s376
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+i"wwAnnotation.h"
+
+N/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/wwAnnotationView.m
+c000000004D58908E00000000000015C2
+t1297649806
+s5570
+i"wwAnnotationView.h"
+
+N/var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gjrqtljsvzfygzfumaghjblsebjx/Prefix.pch.gch
+t1347328494
+s15240176
+
+NInfo.plist
+c00000000505A706100000000000003D1
+t1348104289
+s977
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/AboutViewController.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/AboutViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/AppDelegate.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/DirectionsViewController.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/DirectionsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/HelpViewController.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/HelpViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/HoursViewController.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/HoursViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/LargePhotoViewController.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/LargePhotoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageEightViewController.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageEightViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageElevenViewController.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageElevenViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageFiveViewController.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageFiveViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageFourViewController.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageFourViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageFourteenViewController.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageFourteenViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageNineViewController.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageNineViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageOneViewController.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageOneViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageSevenViewController.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageSevenViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageSixViewController.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageSixViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageTenViewController.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageTenViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageThirteenViewController.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageThirteenViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageThreeViewController.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageThreeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageTwelveViewController.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageTwelveViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/PageTwoViewController.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageTwoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/TipsViewController.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/TipsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/infoViewController.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/infoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/main.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/mapViewController.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/mapViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/tableViewController.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/tableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/wwAnnotation.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/wwAnnotation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/DCMonuments.build/Debug-iphonesimulator/NYC Sights.build/Objects-normal/i386/wwAnnotationView.o" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/wwAnnotationView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/AboutViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/DirectionsViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/HelpViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/HoursViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageEightViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageElevenViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageFourteenViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageNineViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageSevenViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageSixViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageTenViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageThirteenViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/PageTwelveViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/TipsViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/en.lproj/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/en.lproj/PageFiveViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/en.lproj/PageFourViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/en.lproj/PageOneViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/en.lproj/PageThreeViewController.xib"
+r0
+
+CCompileXIB "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/en.lproj/PageTwoViewController.xib"
+r0
+
+CCopyStringsFile "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/en.lproj/InfoPlist.strings" en.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/en.lproj/Localizable.strings" en.lproj/Localizable.strings
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/1860s White House.png" "1860s White House.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/After 1814 fire.png" "After 1814 fire.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Bread line sculpture.png" "Bread line sculpture.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Capitol after 1814 fire.png" "Capitol after 1814 fire.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Construction delay.png" "Construction delay.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Diplomatic Reception Room.png" "Diplomatic Reception Room.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Einstein Memorial.png" "Einstein Memorial.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/FDR Memorial.png" "FDR Memorial.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Franklin Delano Roosevelt quote.png" "Franklin Delano Roosevelt quote.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Jefferson Memorial.png" "Jefferson Memorial.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Kilroy was here.png" "Kilroy was here.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Korean War Memorial.png" "Korean War Memorial.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Korean War soldier.png" "Korean War soldier.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Laying the cornerstone.png" "Laying the cornerstone.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Lincoln Memorial circa 1921.png" "Lincoln Memorial circa 1921.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Lincoln Memorial construction 1916.png" "Lincoln Memorial construction 1916.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Lincoln Memorial.png" "Lincoln Memorial.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Lincoln statue.png" "Lincoln statue.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Lincoln, with Lee profile.png" "Lincoln, with Lee profile.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/MLK - March on Washington.png" "MLK - March on Washington.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/MLK statue model.jpg" "MLK statue model.jpg"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Memorial repairs.png" "Memorial repairs.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Minerva - Apotheosis.png" "Minerva - Apotheosis.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/New Deal.png" "New Deal.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/North Wall Mural.png" "North Wall Mural.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Original plans.png" "Original plans.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Pres. Harrison with goat.png" "Pres. Harrison with goat.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Statue of Freedom.png" "Statue of Freedom.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Statue of Thomas Jefferson.png" "Statue of Thomas Jefferson.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Stone of Hope model.png" "Stone of Hope model.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/The Three Soldiers.png" "The Three Soldiers.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/The White House.png" "The White House.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Thomas Jefferson Statue.png" "Thomas Jefferson Statue.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/US Capitol from the Washington Monument.png" "US Capitol from the Washington Monument.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/US Capitol.png" "US Capitol.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Vietnam Veterans Memorial Wall.png" "Vietnam Veterans Memorial Wall.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Vietnam Women's Memorial.png" "Vietnam Women's Memorial.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/WW II Memorial wreaths.png" "WW II Memorial wreaths.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/WW II Monument inside.png" "WW II Monument inside.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/WWII Memorial arch.png" "WWII Memorial arch.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Washington Monument and US Capitol.png" "Washington Monument and US Capitol.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/Washington Monument.png" "Washington Monument.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/DCMonuments.app/World War II Memorial.png" "World War II Memorial.png"
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/664px-Washington_Monument_circa_1860_-_Brady-Handy.jpg 664px-Washington_Monument_circa_1860_-_Brady-Handy.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/762px-Lincoln_Memorial_Under_Construction_1916_edited-1.jpg 762px-Lincoln_Memorial_Under_Construction_1916_edited-1.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/Default.png Default.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/Icon-72.png Icon-72.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/Icon-small-50.png Icon-small-50.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/Icon-small.png Icon-small.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/Icon.png Icon.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/Icon512.png Icon512.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/InfoScreen.png InfoScreen.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/Infobutton.png Infobutton.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/MapViewIcon.png MapViewIcon.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/PinDRed1.png PinDRed1.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/PinDRed10.png PinDRed10.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/PinDRed11.png PinDRed11.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/PinDRed12.png PinDRed12.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/PinDRed13.png PinDRed13.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/PinDRed2.png PinDRed2.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/PinDRed3.png PinDRed3.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/PinDRed4.png PinDRed4.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/PinDRed5.png PinDRed5.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/PinDRed6.png PinDRed6.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/PinDRed7.png PinDRed7.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/PinDRed8.png PinDRed8.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/PinDRed9.png PinDRed9.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/Playbutton.png Playbutton.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/TableViewIcon.png TableViewIcon.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/Thomas-Jefferson-status.png Thomas-Jefferson-status.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/bp_btn1.png bp_btn1.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/bp_btn2.png bp_btn2.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/iTunesArtwork.png iTunesArtwork.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/nolac1.mp3 nolac1.mp3
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/nolac10.mp3 nolac10.mp3
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/nolac11.mp3 nolac11.mp3
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/nolac2.mp3 nolac2.mp3
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/nolac3.mp3 nolac3.mp3
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/nolac4.mp3 nolac4.mp3
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/nolac5.mp3 nolac5.mp3
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/nolac6.mp3 nolac6.mp3
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/nolac7.mp3 nolac7.mp3
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/nolac8.mp3 nolac8.mp3
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/nolac9.mp3 nolac9.mp3
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/pausebutton.png pausebutton.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/table1.png table1.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/table10.png table10.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/table11.png table11.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/table2.png table2.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/table3.png table3.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/table4.png table4.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/table5.png table5.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/table6.png table6.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/table7.png table7.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/table8.png table8.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/table9.png table9.png
+r0
+
+CCpResource build/Debug-iphonesimulator/DCMonuments.app/volume_up.png volume_up.png
+r0
+
+CGenerateDSYMFile "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app.dSYM" "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/DCMonuments"
+r0
+
+CLd "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/DCMonuments" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app/Info.plist" Info.plist
+r0
+
+CProcessPCH /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-gjrqtljsvzfygzfumaghjblsebjx/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/Diane/Desktop/NYC Sights App/WickedWalks Nashville Dev/build/Debug-iphonesimulator/DCMonuments.app"
+r0
+
