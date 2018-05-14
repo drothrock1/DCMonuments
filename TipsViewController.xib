@@ -1,8 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6751" systemVersion="13F1911" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6736"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="TipsViewController">
@@ -12,42 +16,49 @@
             </connections>
         </placeholder>
         <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
-        <view contentMode="scaleToFill" id="1">
-            <rect key="frame" x="0.0" y="0.0" width="320" height="1100"/>
+        <view clipsSubviews="YES" contentMode="scaleToFill" id="1">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="1180"/>
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
-                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" bouncesZoom="NO" id="4">
-                    <rect key="frame" x="0.0" y="0.0" width="320" height="1100"/>
-                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" bouncesZoom="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="1180"/>
+                    <autoresizingMask key="autoresizingMask"/>
                     <subviews>
-                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="7">
-                            <rect key="frame" x="10" y="13" width="300" height="930"/>
+                        <label verifyAmbiguity="ignoreSizes" opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" fixedFrame="YES" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7">
+                            <rect key="frame" x="10" y="8" width="300" height="540"/>
+                            <autoresizingMask key="autoresizingMask"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <mutableString key="text">- The whole walk is quite long - over 5 miles! The distance from the Jefferson Memorial to the Capitol is about 2 miles. So, if you're short on time and need to scale back the tour, view the Capitol from the Washington Monument instead. If you're really short on time, start at the Washington Monument and view the White House from there - that cuts out almost a mile.
+
+- All monuments and memorials are free. Many DC area museums are also free.
+
+- White House tours are available, but must be scheduled in advance through your congressperson or embassy. Tours are scheduled Tuesday - Saturday in the mornings. Free.
+
+- The Washington Monument requires a ticket to access the top - it's better to make reservations in advance. Go to www.nps.gov to make reservations. Free.
+
+- Capitol tours are available Monday - Saturday on a first-come, first-served basis from 9:00AM - 4:30PM. Free.</mutableString>
+                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                        </label>
+                        <label verifyAmbiguity="ignoreSizes" opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" fixedFrame="YES" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Mmf-KV-UiT">
+                            <rect key="frame" x="10" y="536" width="300" height="380"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                            <string key="text">* The whole walk is quite long - over 5 miles! The distance from the Jefferson Memorial to the Capitol is about 2 miles. So, if you're short on time and need to scale back the tour, view the Capitol from the Washington Monument instead. If you're really short on time, start at the Washington Monument and view the White House from there - that cuts out almost a mile.
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <string key="text">- The Smithsonian Institutes are along Independence Ave SW, between the Washington Monument and the Capitol. Free.
 
-* All monuments and memorials are free. Many DC area museums are also free.
+- Limited visitor parking is available along Ohio Drive SW, between the Lincoln and Jefferson Memorials.
 
-* White House tours are available, but must be scheduled in advance through your congressperson or embassy. Tours are scheduled Tuesday - Saturday in the mornings. Free.
-
-* The Washington Monument requires a ticket to access the top - it's better to make reservations in advance. Go to www.nps.gov to make reservations. Free.
-
-* Capitol tours are available Monday - Saturday on a first-come, first-served basis from 9:00AM - 4:30PM. Free.
-
-* The Smithsonian Institutes are along Independence Ave SW, between the Washington Monument and the Capitol. Free.
-
-* Limited visitor parking is available along Ohio Drive SW, between the Lincoln and Jefferson Memorials.
-
-* The closest Metro (subway) stops are:
+- The closest Metro (subway) stops are:
 -Smithsonian - blue/orange lines
 -Federal Triangle - blue/orange lines
 -L'Enfant Plaza - blue/orange and yellow/green lines
 -Capitol South - blue/orange lines
 
-* Biking is a good way to see the area; several bicycle rental shops are in the vicinity.</string>
+- Biking is a good way to see the area; several bicycle rental shops are in the vicinity.</string>
                             <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
-                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
-                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                         </label>
                     </subviews>
                     <connections>
@@ -55,14 +66,10 @@
                     </connections>
                 </scrollView>
             </subviews>
-            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
             <nil key="simulatedStatusBarMetrics"/>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="35" y="78"/>
         </view>
     </objects>
-    <simulatedMetricsContainer key="defaultSimulatedMetrics">
-        <simulatedStatusBarMetrics key="statusBar"/>
-        <simulatedOrientationMetrics key="orientation"/>
-        <simulatedScreenMetrics key="destination" type="retina4"/>
-    </simulatedMetricsContainer>
 </document>

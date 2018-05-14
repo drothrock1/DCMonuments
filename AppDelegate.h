@@ -11,10 +11,24 @@
 {
     UIWindow *window;
 	UITabBarController *rootTabBarController;
+    UIImageView *imageView;
 	
 }
 
 @property (nonatomic, retain) IBOutlet UIWindow *window;
 @property (nonatomic, retain) IBOutlet UITabBarController *rootTabBarController;
+@property (nonatomic, retain) UIImageView *imageView;
 
 @end
+
+//from largephotoviewcontroller -
+//@interface LargePhotoViewController : UIViewController
+// {
+//@private
+//    NSString *photoName;
+//    UIImageView *imageView;
+// }
+
+// @property(nonatomic, retain) NSString *photoName;
+// @property(nonatomic, retain) UIImageView *imageView;
+

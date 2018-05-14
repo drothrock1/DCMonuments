@@ -87,7 +87,7 @@
 {
 	NSLog (@"viewdidload");
 	[scrollView setScrollEnabled:YES];
-	[scrollView setContentSize:CGSizeMake(320, 3300)];
+	[scrollView setContentSize:CGSizeMake(320, 3200)];
 	[scrollView setBackgroundColor:[UIColor colorWithRed:TEXT_BGCOLORVAL_RED/255.0 green:TEXT_BGCOLORVAL_GREEN/255.0 blue:TEXT_BGCOLORVAL_BLUE/255.0 alpha:1]];
 	
 	//MAKE BAR BUTTONS
@@ -104,7 +104,6 @@
     UISegmentedControl *segmentedControl = [[UISegmentedControl alloc] initWithItems:[NSArray arrayWithObjects:[UIImage imageNamed:@"back12.png"],[UIImage imageNamed:@"forward12.png"],nil]];
 	[segmentedControl addTarget:self action:@selector(segmentAction:) forControlEvents:UIControlEventValueChanged];
 	segmentedControl.frame = CGRectMake(50, 3, 55, 26);
-	segmentedControl.segmentedControlStyle = UISegmentedControlStyleBar;
 	segmentedControl.momentary = YES;
     segmentedControl.tintColor = [UIColor whiteColor];
 

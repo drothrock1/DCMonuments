@@ -9,9 +9,9 @@
 
 @implementation AppDelegate
 
-//@synthesize navigationController; 
 @synthesize window;
 @synthesize rootTabBarController;
+@synthesize imageView;
 
 - (void)dealloc
 {
@@ -25,8 +25,8 @@
 - (void)applicationDidFinishLaunching:(UIApplication *)application
 {
 	// add the navigation controller's view to the window
-//	[window addSubview:navigationController.view];
-	[window addSubview:[rootTabBarController view]];
+//	[window addSubview:[rootTabBarController view]];
+    [self.window setRootViewController:rootTabBarController];
     
     CGRect screenBounds = [[UIScreen mainScreen] bounds];
     
@@ -35,7 +35,7 @@
         
         
         UIImage *myImage = [UIImage imageNamed:@"InfoScreen-568h.png"];
-        UIImageView *myImageView = [[UIImageView alloc] initWithImage:myImage];
+       UIImageView *myImageView = [[UIImageView alloc] initWithImage:myImage];
         
         
         [myImageView setFrame:CGRectMake(0, 0, 320, 528)];
@@ -49,9 +49,12 @@
     {
         UIImage *myImage = [UIImage imageNamed:@"InfoScreen.png"];
         UIImageView *myImageView = [[UIImageView alloc] initWithImage:myImage];
+//        myImageView.autoresizingMask = UIViewAutoresizingFlexibleHeight | UIViewAutoresizingFlexibleWidth;
+//        myImageView.contentMode = UIViewContentModeScaleAspectFit;
+//        myImageView.backgroundColor = [UIColor blackColor];
         
         
-        [myImageView setFrame:CGRectMake(0, 0, 320, 480)];
+       // [myImageView setFrame:CGRectMake(0, 0, 320, 480)];
         
         [window addSubview:myImageView];
         [window sendSubviewToBack:myImageView];
@@ -59,22 +62,29 @@
         
     }
 
-	
-	
-	//[[UIApplication sharedApplication] setStatusBarHidden:YES animated:NO];
-		
 	[window makeKeyAndVisible];
 }
 
 @end
+// from largeviewcontroller.m -
+//@synthesize photoName;
+//@synthesize imageView;
 
-// TO SET THE BACKGROUND IMAGE OF THE NAVIGATION BAR
-/*@implementation UINavigationBar (CustomImage)
-- (void)drawRect:(CGRect)rect
-{
-	UIImage *image = [UIImage imageNamed: @"Bar Uncommon header-1.png"];
-	[image drawInRect:CGRectMake(0, 0, self.frame.size.width, self.frame.size.height)];
-}
+//- (void)loadView {
+    
+//  self.title = photoName;
+//   imageView = [[UIImageView alloc] initWithFrame:[UIScreen mainScreen].applicationFrame];
+//   imageView.autoresizingMask = UIViewAutoresizingFlexibleHeight | UIViewAutoresizingFlexibleWidth;
+   // imageView.contentMode = UIViewContentModeScaleAspectFit;
+    //imageView.backgroundColor = [UIColor blackColor];
+    //self.view = imageView;
+//}
 
-@end
-*/
+//- (void)viewWillAppear:(BOOL)animated {
+  //  UIImage *photo = [UIImage imageNamed:[NSString stringWithFormat:@"%@.png", photoName]];
+    //imageView.image = photo;
+//}
+
+
+
+
